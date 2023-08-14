@@ -344,7 +344,15 @@ body {
   }
 
 .all{
+  margin-left: 8rem;
+  width: 512px;
   flex-direction: column;
+  border: 1px solid salmon;
+}
+
+.chausse{
+  margin-left: 8rem;
+  border: 1px solid salmon;
 }
 
   .left_down{
