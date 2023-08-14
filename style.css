@@ -23,7 +23,6 @@ body {
   /* border: 1px solid red; */
 }
 
-
 .navigation {
   display: flex;
   align-items: center;
@@ -296,6 +295,12 @@ body {
     display: none;
   }
 
+.navigation {
+  /* align-items: center; */
+  /* justify-content: space-between; */
+  /* border: 1px solid yellowgreen; */
+}
+
   .bloc_one{
     align-items: center;
     margin-left: 13rem;
@@ -307,6 +312,7 @@ body {
   /* border: 1px solid salmon; */
 }
 
+
 .logo{
   margin-left: 1rem;
   /* border: 1px solid rgb(55, 0, 255); */
@@ -315,7 +321,7 @@ body {
 
   .bloc_two{
     /* justify-content: space-around; */
-    margin-right: 10rem;
+    margin-right: 15rem;
     /* margin-right: 15rem; */
     /* border: 1px solid salmon; */
   }
